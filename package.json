@@ -1,0 +1,9 @@
+{
+  "name": "ext-cli",
+  "version": "0.0.1",
+  "description": "Chrome浏览器插件Cli",
+  "main": "index.js",
+  "repository": "https://github.com/Siykt/ext-cli.git",
+  "author": "siykt <cnsiykt@163.com>",
+  "license": "MIT"
+}
